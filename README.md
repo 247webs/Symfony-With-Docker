@@ -2,7 +2,7 @@
 
 ### Description
 
-Code base for User Signup, Login, Wirring Article, Posting and Publishing, Adding Comment and related features.
+Code base for User Signup, Login, Writing & Publishing Articles, Adding Comment and related features.
 
 ### Requirements
 
