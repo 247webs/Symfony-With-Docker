@@ -1,8 +1,5 @@
 # Blog Post API
 
-### Description
-In this project we are creating article with authorized user. On  the user article other user can comment or also follow the article user
-
 ### Requirements
 
 | Package | Version |
