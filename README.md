@@ -1,7 +1,8 @@
 # Blog Post API
 
 ### Description
-In this project we are creating article with authorized user. On  the user article other user can comment or also follow the article user
+
+Code base for User Signup, Login, Writing & Publishing Articles, Adding Comment and related features.
 
 ### Requirements
 
@@ -38,4 +39,4 @@ $ make specs
 ```
 # Glance at the Console UI
 
-![Image](./images/test-case.png?q=1)
+![Image](https://i.imgur.com/EVeIEaF.png?q=1)
